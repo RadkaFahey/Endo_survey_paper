@@ -1,0 +1,11 @@
+,Adenomyosis,Cervical cancer,Cysts,Fibroids,Infertility,PCOS,PID,Other,None
+Adenomyosis,5,0,0,3,2,5,0,4,"30															"
+Cysts,0,0,0,0,0,1,0,2,"7															"
+Endosalpingiosis,0,0,0,1,0,0,0,0,"1															"
+Fibroids,1,0,2,5,1,1,0,0,"7															"
+Infertility,0,0,0,0,0,0,0,0,"2															"
+PCOS,2,0,0,4,2,5,0,4,"36															"
+Pelvic congestion syndrome,1,0,0,0,0,0,0,1,"1															"
+PID,0,0,0,0,0,2,0,0,"4															"
+Other,0,0,0,0,0,2,0,1,"7															"
+None,7,4,9,16,4,15,1,25,"123															"
